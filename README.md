@@ -1,7 +1,4 @@
 lsdkjfdlskfdksljfsd
 :wq!
 # bitbucket-mirror
-<<>>
-<<<<<>>>>>>
-<<<<<>>>>>>
 <<<<<>>>>>>
